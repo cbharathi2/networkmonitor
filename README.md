@@ -1,7 +1,3 @@
-Here is a detailed **README** content for your **Network Monitoring Dashboard** project that includes real-time bandwidth tracking and subnet device scanning using Dash:
-
----
-
 # 📡 Network Monitoring Dashboard
 
 A real-time dashboard built with **Dash**, **Plotly**, and **MySQL**, which provides:
@@ -146,5 +142,7 @@ Tech enthusiast and builder of real-time dashboards
 ---
 
 ## 📝 License
+
+Apache license
 
 
